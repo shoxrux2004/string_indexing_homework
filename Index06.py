@@ -6,4 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    a=s[0]+s[-1]
+    return a
+print(main("shoxrux"))
